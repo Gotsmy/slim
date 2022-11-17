@@ -1,5 +1,6 @@
-# Sulfate Limitation in E. coli "boosts" nothing but increases pDNA yield
-SLIM in E. coli
+# Sulfur limitation increases specific pDNA yield in *E. coli* fed-batch processes
+
+Creation of models, simulation of processes, and analysis of data as discussed in our research paper available on ???.
 
 ## Scripts
 Includes python scripts used for the dFBA simulations.
