@@ -25,6 +25,6 @@ Jupyter Notebooks with code that was used to create the figures is given in the 
 * ```00_model_creation.ipynb``` includes the model creation.
 * ```01_analysis_1.ipynb``` includes code for figures 1 and 2.
 * ```02_analysis_2.ipynb``` includes code for figures 3 and S1. 
-* ```03_analysis_3.ipynb``` includes code for figures 4, 7, S2, S3, and S4.
-* ```04_analysis_4.ipynb``` includes code for figures 5 and 6.
+* ```03_analysis_3.ipynb``` includes code for figures 4, 8, S2, S3, and S4.
+* ```04_analysis_4.ipynb``` includes code for figures 5, 6 and 7.
 
