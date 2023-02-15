@@ -1,6 +1,6 @@
 # Sulfur limitation increases specific pDNA yield in *E. coli* fed-batch processes
 
-Creation of models, simulation of processes, and analysis of data as discussed in our research paper available on <mark>TODO</mark>.
+Creation of models, simulation of processes, and analysis of data as discussed in our research paper "Sulfate limitation increases specific plasmid DNA yield in <i>E. coli</i> fed-batch processes" available on [bioRxiv](https://doi.org/10.1101/2023.02.09.527815).
 
 ## Python Environement
 You can recreate the python environment by installing the packages listed in ```requirements.yml```.
